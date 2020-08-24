@@ -1,1 +1,3 @@
-console.log('hey baby');
+
+
+setInterval(() => console.log('hi there'), 1000)
